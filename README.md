@@ -1,0 +1,1 @@
+# simulator-springchallenge2022-codeingame
