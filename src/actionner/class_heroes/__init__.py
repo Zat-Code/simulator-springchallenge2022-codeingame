@@ -1,0 +1,6 @@
+from src.actionner.class_heroes.defenser_near_wind import DefenserNearWind
+from src.actionner.class_heroes.attacker_wind import AttackerWind
+from src.actionner.class_heroes.defenser_control_mob import DefenserControlMob
+from src.actionner.class_heroes.attacker_control_hero import AttackerControlHero
+from src.actionner.class_heroes.farmer import Farmer
+from src.actionner.class_heroes.attacker_shield_monster import AttackerShieldMonster
